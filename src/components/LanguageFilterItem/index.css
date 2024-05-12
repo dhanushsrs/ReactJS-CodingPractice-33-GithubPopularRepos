@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.language-btn {
+  color: #0f172a;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  padding: 4px 16px;
+  cursor: pointer;
+  outline: none;
+}
+
+.selected-language-btn {
+  color: #0284c7;
+  border-radius: 27px;
+  border: 1px solid #0284c7;
+}
